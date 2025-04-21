@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a passionate and self-driven Front-end Developer with a strong foundation in JavaScript, ReactJS/NextJS, and API integration. Currently a second-year student majoring in Marketing Management at HCMUT, I actively pursue technical growth through real-world projects in the F&B sector and collaborative team environments.<br><br>I have experience working in Agile/SCRUM teams, understanding version control with Git, and collaborating with backend developers to deliver scalable web solutions. My goal is to expand my skill set into full-stack development, especially in Python/Django and AI-powered solutions, while contributing to impactful products and a high-performance engineering culture.
+I am a passionate and self-driven Front-end Developer with a strong foundation in JavaScript, ReactJS/NextJS, and API integration. Currently a Final-year Computer Science student at
+ HCMUT, I actively pursue technical growth through real-world projects in the F&B sector and collaborative team environments.<br><br>I have experience working in Agile/SCRUM teams, understanding version control with Git, and collaborating with backend developers to deliver scalable web solutions. My goal is to expand my skill set into full-stack development, especially in Python/Django and AI-powered solutions, while contributing to impactful products and a high-performance engineering culture.
 
 
 ## 🌐 Socials:
